@@ -20,6 +20,7 @@ python ighiker.py
 Send username to email cyberjeevi@gmail.com
 
 Or WhatsApp http://wa.me/15817003192
+Or Instagram https://instagram.com/its__me_cj
 
 Donate Me a Rupee - cyberjeevi@upi 
 
