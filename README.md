@@ -37,4 +37,10 @@ after_unfollow_count() to change the sleeping time.
 Time setting is in Seconds
 ```
 
+### How to Update?
+```
+Goto Directory
+run $bash update.sh
+That's all
+```
 Email me : cyberjeevi@gmail.com
