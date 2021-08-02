@@ -13,14 +13,15 @@ Written in Python Language
 ```
 git clone https://github.com/cyberjeevi/ighiker-py
 cd ighiker-py
+unzip modules.zip
 pip install -r requirements.txt
 python ighiker.py
 ```
 #### To add your Insta Username to Database
-Send username to email cyberjeevi@gmail.com
+Send username to Moderator @sanjidtk
 
-Or WhatsApp http://wa.me/15817003192
-Or Instagram https://instagram.com/its__me_cj
+Or WhatsApp http://wa.me/919747877405
+Or Instagram https://instagram.com/mohsanjid
 
 Donate Me a Rupee - cyberjeevi@upi 
 
@@ -29,14 +30,6 @@ Don't Remove Credits.
 Don't Try to Mess with Codes.
 Otherwise Bot won't Work.
 
-### Setup Sleep Time:
-```
-Open and Edit config.py file
-Change values of after_follow_count() 
-                      &
-after_unfollow_count() to change the sleeping time.
-Time setting is in Seconds
-```
 
 ### How to Update?
 ```
