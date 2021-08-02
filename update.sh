@@ -1,3 +1,4 @@
-cp instabot/run.sh ../
 cd ..
-bash run.sh
+rm -rf ighiker-py/
+git clone https://github.com/cyberjeevi/ighiker-py
+cd ighiker-py
